@@ -1,4 +1,4 @@
-				iJokes For SiriServerCore!
+iJokes For SiriServerCore!
 
 This is a plugin with the same answers as the AssistantExtensions Plugin "iJokes"
 
